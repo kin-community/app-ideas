@@ -1,5 +1,12 @@
 # Contributor Covenant Code of Conduct
 
+In this community we focus on software development for blockchains.
+
+Discussions about and references to crypto prices, exchange listings, future
+predictions (including references to 'moon' and 'lambo', etc. ), promoting (shilling) other projects and memes about crypto are strictly forbidden.
+
+By participating in this community you agree to these terms.
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
